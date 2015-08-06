@@ -9,7 +9,9 @@ If You can click on a given _pin_ to get an _infowindow_ which will display a li
 If you like you can use the list at top left to go directly to the _pin_ and _infowwindow_ you would like. And last of of all you can type in a name or portions of a name into the _search_ box to filter the list.
 
 ## Running instructions:
-* Use the list at top left to go directly to the point of interest. This will highlight (turn red point "blue") the specific pin along with a popup window with links to Wikipedia and a Google Street View photo. 
+* Visit my GitHub page (http://chaz0468.github.io/Project5_neighborhood - gh-pages).
+* Use the 3 black horizonital lines to open a menu of stored places to visit
+* Then use the list at top left to go directly to the point of interest. This will highlight (turn red point "blue") the specific pin along with a popup window with links to Wikipedia and a Google Street View photo. 
 * You can also click directly on any pin on the map to do the same thing as clicking on the list item. 
 * Additionally, you can sue the _search_ box to filter the points of interest. 
 
