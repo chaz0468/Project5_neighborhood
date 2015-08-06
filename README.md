@@ -31,3 +31,4 @@ If you like you can use the list at top left to go directly to the _pin_ and _in
 *   [JS-tutorial - InfoBubble](http://js-tutorial.com/infobubble-47)
 *   [W3Schools.com - JavaScript Object Prototypes](http://www.w3schools.com/js/js_object_prototypes.asp)
 *   and a few more based on the class I took for this lesson.
+*	[jQuery Script.net - Simple Mobile Push Menu With jQuery and TweenMax.js](http://www.jqueryscript.net/menu/Simple-Mobile-Push-Menu-With-jQuery-TweenMax-js.html)
